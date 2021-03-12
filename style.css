@@ -1,0 +1,15 @@
+.para {
+  background-color:antiquewhite;
+  padding: 30px;
+}
+
+.image {
+  margin: 40px
+}
+
+.table {
+  width: 200%;
+  border: 10px solid royalblue;
+  padding: 30px;
+  margin: 15px;
+}
